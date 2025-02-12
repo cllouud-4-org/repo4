@@ -7,7 +7,7 @@ on:
 jobs:
   Explore-GitHub-Actions:
     # You need to use the INSTALLATION_NAME from the previous step
-    runs-on: org4-repo3
+    runs-on: org4-repo4
     container:
       image: temp:1
       volumes:
